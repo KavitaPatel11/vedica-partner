@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "710201453557",
+    "project_id": "vedica-partner-bd479",
+    "storage_bucket": "vedica-partner-bd479.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710201453557:android:33dcdb859d82f8bc9acebc",
+        "android_client_info": {
+          "package_name": "com.vedica_partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710201453557-sdooto8pojr28fha1a8cjqql9p9jfkkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2e38194lR5oTFuOkUm5QgjKuFIDHjhHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710201453557-sdooto8pojr28fha1a8cjqql9p9jfkkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

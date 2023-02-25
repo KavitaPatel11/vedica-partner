@@ -1,0 +1,49 @@
+name: vedica_partner
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  flutter_svg: ^1.1.6
+  dotted_line: ^3.1.0
+  nested_scroll_views: ^0.0.6
+  numberpicker: ^2.1.1
+  direct_select: ^2.0.0
+  firebase_core: ^2.4.1
+  get_storage: ^2.0.3
+  provider: ^6.0.5
+  govt_documents_validator: ^0.0.1
+  connectivity_plus: ^3.0.2
+  cloudinary_sdk: ^4.0.2+10
+  dotted_border: ^2.0.0+3
+
+  infinite_scroll_pagination: ^3.2.0
+  dropdown_button2: ^1.9.2
+  image_picker: ^0.8.6+1
+  upi_india: ^3.0.1
+  pinput: ^2.2.23
+  syncfusion_flutter_sliders: ^20.4.51
+
+  http: ^0.13.5
+  dotted_decoration: ^2.0.0
+
+  flutter:
+    sdk: flutter
+  fluttertoast: ^8.1.2
+  firebase_auth: ^4.2.5
+  intl: ^0.17.0
+  getwidget: ^3.0.1
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
